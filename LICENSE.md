@@ -2,8 +2,8 @@
 
 Feel free to use it for commercial, non commercial, educational, or anything that ends in -ial.
 
-##Details
+##
 It will be apreciated if you make reference to the repositoty but it's not necessary.
 
-##Goodbye
-A mexican computer science student salutes you stranger.
+##
+A computer science student salutes you stranger, greetings from Mexico.
